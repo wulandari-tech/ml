@@ -1,0 +1,17 @@
+{
+  "name": "website-request-",
+  "version": "1.0.0",
+  "description": "equest website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "WANZOFC",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.1"
+  }
+}
